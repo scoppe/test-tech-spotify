@@ -4,6 +4,7 @@ Frontend Test - Spotify
 ## Project
 
 We'd like you to reproduce the albums grid and the album details pages from Spotify.
+The app can be seen at [](https://open.spotify.com/)
 
 ![](./albums.png)
 ![](./album.png)
@@ -23,6 +24,7 @@ No further features are asked - we don't require this app to play any song.
 For this project, we'd like you to use:
 - React
 - Typescript
+- Tailwind CSS
 - GraphQL
 
 Apart from that list, you may use any tool you consider useful.
