@@ -4,7 +4,7 @@ Frontend Test - Spotify
 ## Project
 
 We'd like you to reproduce the albums grid and the album details pages from Spotify.
-The app can be seen at [](https://open.spotify.com/)
+The app can be seen at [https://open.spotify.com/](https://open.spotify.com/)
 
 ![](./albums.png)
 ![](./album.png)
